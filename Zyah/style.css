@@ -1,0 +1,15 @@
+/* External CSS */
+
+Body { Background-color:Blue; 
+  font-size: 1em; 
+} 
+address{
+  border:1px solid black;
+}
+/*
+h1{
+ font-family: cursive;
+}
+h2{
+  font-family: cursive
+}
